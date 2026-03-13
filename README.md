@@ -43,6 +43,7 @@ Durante o desenvolvimento do caderno de estudos foram utilizadas perguntas como:
 
 ### 📓Acessar o Notebooklm
 📌[Abrir o Notebooklm]([url](https://notebooklm.google.com/notebook/50316e50-0e43-4d3b-b31a-2ceaa4c74f20))
+[texto do link]([url](https://notebooklm.google.com/notebook/50316e50-0e43-4d3b-b31a-2ceaa4c74f20))
 
 ## 👨‍💻 Autor
 Paulo Joabe Silva Almeida
