@@ -47,7 +47,7 @@ Durante o desenvolvimento do caderno de estudos foram utilizadas perguntas como:
 ## 👨‍💻 Autor
 Paulo Joabe Silva Almeida
 Técnico de Redes e Infraestrutura de TI
-tecnólogo em Análise e Desenvolvimento de Sistemas
+Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ###⭐ Projeto desenvolvido como parte de desafio da plataforma Digital Innovation One.
 
