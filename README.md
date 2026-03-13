@@ -45,9 +45,9 @@ Durante o desenvolvimento do caderno de estudos foram utilizadas perguntas como:
 📌[Abrir o Notebooklm](https://notebooklm.google.com/notebook/50316e50-0e43-4d3b-b31a-2ceaa4c74f20)
 
 ## 👨‍💻 Autor
-Paulo Joabe Silva Almeida
-Técnico de Redes e Infraestrutura de TI
-Tecnólogo em Análise e Desenvolvimento de Sistemas
+Paulo Joabe Silva Almeida  
+Técnico de Redes e Infraestrutura de TI  
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
 
 ###⭐ Projeto desenvolvido como parte de desafio da plataforma Digital Innovation One.
 
