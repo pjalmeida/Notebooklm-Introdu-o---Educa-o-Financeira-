@@ -10,7 +10,7 @@ Projeto de estudo sobre Introdução à Educação Financeira utilizando o Noteb
 * Demonstrar o uso de ferramentas de IA aplicadas ao estudo.
 
 ## 📚 Fontes Utilizadas
-### Materiais em PDF
+### 📄Materiais em PDF
 1. https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais.pdf
 2. https://www.investidor.gov.br/portaldoinvestidor/export/sites/portaldoinvestidor/publicacao/Livro/LivroTOPPlanejamentoFinanceiro.pdf
 3. https://www.investidor.gov.br/portaldoinvestidor/export/sites/portaldoinvestidor/publicacao/Livro/LivroTOPInvestimento.pdf
